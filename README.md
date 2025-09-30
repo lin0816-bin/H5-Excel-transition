@@ -1,16 +1,16 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+此模板提供了一个最小化的设置，让React在Vite中运行，支持热模块替换(HMR)和一些ESLint规则。
 
-Currently, two official plugins are available:
+目前，有两个官方插件可用：
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) 使用 [Babel](https://babeljs.io/) 实现快速刷新
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) 使用 [SWC](https://swc.rs/) 实现快速刷新
 
-## React Compiler
+## React编译器
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+此模板未启用React编译器。要添加它，请参阅[此文档](https://react.dev/learn/react-compiler/installation)。
 
-## Expanding the ESLint configuration
+## 扩展ESLint配置
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+如果您正在开发生产应用程序，我们建议使用TypeScript并启用类型感知的lint规则。查看[TS模板](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts)了解如何在项目中集成TypeScript和[`typescript-eslint`](https://typescript-eslint.io)。
