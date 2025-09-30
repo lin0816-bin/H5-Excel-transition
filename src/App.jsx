@@ -408,7 +408,7 @@ function App() {
         {/* Excel数据预览 */}
         {excelData && !isProcessing && previewExcelData()}
 
-        {/* 翻译完成后的操作 */}
+       {/* 翻译完成后的操作 */}
         {translationComplete && (
           <>
             <div className="mt-6 p-4 bg-green-50 rounded-lg border border-green-200">
